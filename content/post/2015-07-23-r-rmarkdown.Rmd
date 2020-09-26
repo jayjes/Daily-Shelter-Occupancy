@@ -11,6 +11,9 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+# Authorship
+Weizhi Guo
+
 # Abstraction
 COV-19 has a huge impact on the world, and it has affected the normal lives of many people in Canada. As for the homeless crowd who live in the shelter, they have been greatly affected after the government introduced restrictions on the number of indoor people and shelter does not have enough resources to deal with this sudden epidemic. Our findings have implications for how much the impact of the epidemic on homeless crowd residences.
 
